@@ -1,4 +1,4 @@
-# WORDPRESS RESOURCES
+# Wordpress Codes
 
 My collection of WordPress codes helps me to develop wordpress websites quickly and easily.
 
